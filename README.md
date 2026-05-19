@@ -48,7 +48,7 @@ The project also demonstrates JDBC transaction management using commit and rollb
 src/
 └── com/
     └── dbms/
-        └── project_2341016436/
+        └── project_2341019169/
             ├── BusinessLogic.java
             ├── ConnectionManager.java
             ├── DatabaseSetup.java
